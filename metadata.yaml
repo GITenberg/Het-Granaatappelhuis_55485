@@ -1,5 +1,5 @@
 _repo: Het-Granaatappelhuis_55485
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Midderigh-Bokhorst, Johanna Berhardina
@@ -11,6 +11,9 @@ contributor:
     agent_name: Oosterzee, Liane van
     gutenberg_agent_id: '48365'
     url: http://www.gutenberg.org/2009/agents/48365
+covers:
+- cover_type: archival
+  image_path: 55485-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -23,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55485#Het-Granaatappelhuis
 gutenberg_issued: '2017-09-04'
 gutenberg_type: Text
 identifiers:
